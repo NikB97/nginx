@@ -1,3 +1,3 @@
 # nginx
 
-##configuration files for NGINX web server
+## configuration files for NGINX web server
